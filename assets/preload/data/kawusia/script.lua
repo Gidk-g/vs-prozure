@@ -12,14 +12,14 @@ function onCreatePost()
     setProperty('Icon.angle', 10)
     setScrollFactor('Icon', 0, 0)
 
-    makeLuaText('songText', "Colowsky - Kawusia", 400, getProperty('bgThing.x') + 180, 320)
+    makeLuaText('songText', "Colowsky - Kawusia", 400, getProperty('bgThing.x') + 160, 320)
     setObjectCamera("songText", 'other');
     setTextColor('songText', '0xffffff')
     setTextSize('songText', 30);
     setTextFont('songText', "vcr.ttf")
     setTextAlignment('songText', 'left')
 
-    makeLuaText('beforeSongText', "Now Playing... ", 300, getProperty('bgThing.x') + 30 - 40, 290)
+    makeLuaText('beforeSongText', "Now Playing... ", 300, getProperty('bgThing.x') + 10 - 40, 290)
     setObjectCamera("beforeSongText", 'other');
     setTextColor('beforeSongText', '0xffffff')
     setTextSize('beforeSongText', 25);
