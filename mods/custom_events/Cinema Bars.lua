@@ -24,7 +24,7 @@ end
 
 function onEvent(name, value1, value2)
     if name == 'Cinema Bars' then
-		Speed = tonumber(value1)
+	Speed = tonumber(value1)
         Ylevel = tonumber(value2)
 
         if Ylevel == nil or Ylevel == '' then
