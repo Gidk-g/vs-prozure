@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "amogusy",
+	"idle_anim": "amogusy",
+	"position": [
+		95,
+		-185
+	],
+	"scale": 1,
+	"image": "amogusy",
+	"flipX": false
+}

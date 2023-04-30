@@ -1,0 +1,11 @@
+{
+	"idle_anim": "i",
+	"confirm_anim": "i",
+	"position": [
+		50,
+		302
+	],
+	"scale": 0.38,
+	"flipX": false,
+	"image": "prozu"
+}

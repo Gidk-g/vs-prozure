@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Rysowanko", "prozu", [255, 204, 102]],
+		["Animowanko", "prozu", [255, 204, 102]]
+	],
+
+	"weekCharacters": [
+		"prozu",
+		"bf",
+		"amogusy"
+	],
+	"weekBackground": "prozu",
+	"difficulties": "hard",
+
+	"storyName": "Prozure",
+	"weekBefore": "tutorial",
+	"weekName": "Prozure",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
