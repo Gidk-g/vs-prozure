@@ -87,6 +87,9 @@ class ClientPrefs {
 		'debug_2'		=> [EIGHT, NONE]
 	];
 	public static var defaultKeys:Map<String, Array<FlxKey>> = null;
+	public static var language:String = LanguageData.languageList[ClientPrefs.langNo][0];
+	public static var langNo:Int = 0;
+	public static var langCurSelected:Int = 0; // wouldn't have made this var but i dunno how would i make lang update then
 
 	public static function loadDefaultKeys() {
 		defaultKeys = keyBinds.copy();
@@ -264,6 +267,19 @@ class ClientPrefs {
 		}
 		if (FlxG.save.data.comboStacking != null)
 			comboStacking = FlxG.save.data.comboStacking;
+
+		if (FlxG.save.data.language != null)
+		{
+			language = FlxG.save.data.language;
+		}
+		if (FlxG.save.data.langNo != null)
+		{
+			langNo = FlxG.save.data.langNo;
+		}
+		if (FlxG.save.data.langCurSelected != null)
+		{
+			langCurSelected = FlxG.save.data.langCurSelected;
+		}
 
 		var save:FlxSave = new FlxSave();
 		save.bind('controls_v2', 'ninjamuffin99');
