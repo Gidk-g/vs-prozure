@@ -1,6 +1,5 @@
 package;
 
-import cpp.CPPInterface;
 import flixel.graphics.FlxGraphic;
 import flixel.FlxG;
 import flixel.FlxGame;
@@ -83,7 +82,7 @@ class Main extends Sprite
 		}
 	
 		ClientPrefs.loadDefaultKeys();
-		addChild(new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen));
+		addChild(new FnfGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen));
 
 		#if !mobile
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
@@ -98,15 +97,6 @@ class Main extends Sprite
 		#if html5
 		FlxG.autoPause = false;
 		FlxG.mouse.visible = false;
-		#end
-
-		#if cpp
-		CPPInterface.darkMode();
-		#end
-
-		#if cpp
-		cpp.NativeGc.enable(true);
-		cpp.NativeGc.run(true);
 		#end
 
 		#if CRASH_HANDLER
