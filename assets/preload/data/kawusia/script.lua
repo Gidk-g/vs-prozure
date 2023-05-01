@@ -6,7 +6,7 @@ function onCreatePost()
 	setObjectCamera('bgThing', 'other')
     setScrollFactor('bgThing', 0, 0)
 
-	makeLuaSprite('Icon', 'icon-prozure3', -150, 225)
+	makeLuaSprite('Icon', 'icon-prozure', -150, 225)
     scaleObject('Icon', 0.70, 0.70)
 	setObjectCamera('Icon', 'other')
     setProperty('Icon.angle', 10)
