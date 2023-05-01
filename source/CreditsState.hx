@@ -84,6 +84,8 @@ class CreditsState extends MusicBeatState
 			['Vs Prozure Team'],
 			['Wipek','wipek','Owner, Music, Artist and Animator','https://www.youtube.com/channel/UCgPNGHzDIEVS4w_MrOk1qow','CC66CC'],
 			['Gidk','gidk','Coder','https://www.youtube.com/channel/UCZu360PL3Nr-ppBmmmZhS2w','F8F8F8'],
+			['Teotm','teotm4','Charter','https://www.youtube.com/channel/UCJnOkGILRMpEAgbS0A91cWQ','FF0000'],
+			['Colowsky','Colowsky', 'Music','https://www.youtube.com/channel/UCGVhvkT_zzQeOctyGYBMcsQ','81E0E0'],
 			['DevilllPink','devill','Charter','https://www.youtube.com/@DevilllPink/featured','666666'],
 			['Atesz','atesz','Chromatic Scale','https://www.youtube.com/channel/UCapZphvqpM9-BMgA2FZVeGw/featured','35B100'],
 			[''],
