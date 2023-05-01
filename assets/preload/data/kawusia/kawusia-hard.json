@@ -1948,42 +1948,22 @@
 					],
 					[
 						57600,
-						5,
-						225
-					],
-					[
-						57900,
-						7,
-						225
-					],
-					[
-						58200,
-						4,
-						225
-					],
-					[
-						58500,
-						7,
-						225
-					],
-					[
-						57600,
-						1,
+						2,
 						0
 					],
 					[
 						57750,
-						0,
+						1,
 						0
 					],
 					[
 						57900,
-						3,
+						0,
 						0
 					],
 					[
 						58050,
-						1,
+						2,
 						0
 					],
 					[
@@ -2003,7 +1983,7 @@
 					],
 					[
 						58650,
-						2,
+						0,
 						0
 					]
 				],
@@ -2039,32 +2019,12 @@
 					],
 					[
 						58800,
-						6,
-						225
-					],
-					[
-						59100,
-						4,
-						225
-					],
-					[
-						59400,
-						5,
-						225
-					],
-					[
-						59700,
-						7,
-						225
-					],
-					[
-						58800,
-						1,
+						2,
 						0
 					],
 					[
 						58950,
-						0,
+						1,
 						0
 					],
 					[
@@ -2074,27 +2034,27 @@
 					],
 					[
 						59250,
-						1,
+						0,
 						0
 					],
 					[
 						59400,
-						0,
-						0
-					],
-					[
-						59550,
-						3,
-						0
-					],
-					[
-						59700,
 						2,
 						0
 					],
 					[
-						59850,
+						59550,
 						0,
+						0
+					],
+					[
+						59700,
+						1,
+						0
+					],
+					[
+						59850,
+						3,
 						0
 					]
 				],
@@ -2130,32 +2090,12 @@
 					],
 					[
 						60000,
-						6,
-						225
-					],
-					[
-						60300,
-						4,
-						225
-					],
-					[
-						60600,
-						6,
-						225
-					],
-					[
-						60900,
-						5,
-						225
-					],
-					[
-						60000,
-						1,
+						2,
 						0
 					],
 					[
 						60150,
-						3,
+						1,
 						0
 					],
 					[
@@ -2170,7 +2110,7 @@
 					],
 					[
 						60600,
-						0,
+						3,
 						0
 					],
 					[
@@ -2180,12 +2120,12 @@
 					],
 					[
 						60900,
-						3,
+						2,
 						0
 					],
 					[
 						61050,
-						2,
+						0,
 						0
 					]
 				],
@@ -2221,52 +2161,32 @@
 					],
 					[
 						61200,
-						7,
-						225
-					],
-					[
-						61500,
-						4,
-						225
-					],
-					[
-						61800,
-						6,
-						225
-					],
-					[
-						62100,
-						7,
-						225
-					],
-					[
-						61200,
-						1,
+						3,
 						0
 					],
 					[
 						61350,
-						0,
-						0
-					],
-					[
-						61500,
-						3,
-						0
-					],
-					[
-						61650,
 						1,
 						0
 					],
 					[
-						61800,
+						61500,
+						0,
+						0
+					],
+					[
+						61650,
 						2,
+						0
+					],
+					[
+						61800,
+						3,
 						225
 					],
 					[
 						62100,
-						3,
+						2,
 						225
 					]
 				],
@@ -6077,96 +5997,6 @@
 				"bpm": 200
 			},
 			{
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"altAnim": false,
-				"gfSection": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -6239,12 +6069,152 @@
 		],
 		"events": [
 			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
 				9600,
 				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					],
 					[
 						"Flash Camera",
 						"1",
 						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.0",
+						"1.0"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"1.0"
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.0",
+						"1.0"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"1.0"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1.0"
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.0",
+						"1.0"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1.0"
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.0",
+						"1.0"
+					]
+				]
+			],
+			[
+				23100,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"1.0"
+					]
+				]
+			],
+			[
+				23400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"1.0"
+					]
+				]
+			],
+			[
+				23700,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"1.0"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1.0"
+					]
+				]
+			],
+			[
+				28200,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"4.0"
 					]
 				]
 			],
@@ -6252,14 +6222,34 @@
 				28800,
 				[
 					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.9"
+					],
+					[
 						"Flash Camera",
 						"1",
 						""
 					],
 					[
 						"Cinema Bars",
-						"0.2",
+						"1",
 						"90"
+					],
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"3.0"
 					]
 				]
 			],
@@ -6267,68 +6257,23 @@
 				48000,
 				[
 					[
-						"Flash Camera",
-						"1",
-						""
+						"Set Cam Zoom",
+						"0.8",
+						"1.0"
 					],
-					[
-						"Cinema Bars",
-						"0.2",
-						"0"
-					]
-				]
-			],
-			[
-				76800,
-				[
 					[
 						"Flash Camera",
 						"1",
 						""
 					],
 					[
-						"Cinema Bars",
-						"0.2",
-						"90"
-					]
-				]
-			],
-			[
-				105600,
-				[
-					[
-						"Flash Camera",
+						"Cam Boom Speed",
 						"1",
-						""
+						"2"
 					],
 					[
 						"Cinema Bars",
-						"0.2",
-						"0"
-					]
-				]
-			],
-			[
-				124800,
-				[
-					[
-						"Flash Camera",
 						"1",
-						""
-					],
-					[
-						"Cinema Bars",
-						"0.2",
-						"90"
-					]
-				]
-			],
-			[
-				144000,
-				[
-					[
-						"Cinema Bars",
-						"0.2",
 						"0"
 					]
 				]
