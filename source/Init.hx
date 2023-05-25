@@ -12,6 +12,8 @@ class Init extends FlxState
 
 		#if cpp
 		CPPInterface.darkMode();
+		lime.app.Application.current.window.borderless = true;
+		lime.app.Application.current.window.borderless = false;
 		#end
 
 		#if cpp
